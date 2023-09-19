@@ -1,0 +1,1 @@
+DSlabel	DD1	Device	Model	Size	Scan	Frspc

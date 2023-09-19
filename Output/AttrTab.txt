@@ -1,0 +1,1 @@
+VarID	Declared	Static	Protection	Abstract	Sync	Final	Native	Strict	Volatile	Transient	Generic	Sealed	Virtual	Unsafe	Extern	Override	New	Const	Event	ReadOnly	Operator	Implicit	Fixed	Direction	Pointer	Nullable	ArrayDepth

@@ -1,0 +1,2 @@
+ExtID	FileName	Assigned	Organization	AccessMode	RecordKey	RecordingMode	DataRecord	FileStatus	Blksize	Recsize	FIO
+FILE1	CUSTOMER-FILE	VSAM	INDEXED	RANDOM	CUSTOMER-KEY			CUSTOMER-VSAM-STATUS			0

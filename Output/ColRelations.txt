@@ -1,0 +1,11 @@
+# Symbol = Record, Parent!, Redefines!, Pointedby!
+# Parent = Record, Symbol!
+# Record = Parent!, Symbol!
+# Redefines = Symbol!
+# PointedBy = Symbol!
+# VarID = RecordID, ParentID!
+# ParentID = RecordID, VarID!
+# RecordID = ParentID!, VarID!
+# Program = Mainprogram
+# Mainprogram = Program!
+# CRUD_name = @CRUD_Intern, @CRUD_Intern!

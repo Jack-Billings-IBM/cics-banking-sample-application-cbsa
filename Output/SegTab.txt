@@ -1,0 +1,1 @@
+SegmID	DBD	DSlabel	Segment	Sgm_parent	ParentType	SegmBytes	Freq	Sgm_Pointer	Rules

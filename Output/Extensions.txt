@@ -1,0 +1,4 @@
+//Extensions
+CPY=COBOL
+CBL=COBOL
+BMS=BMS

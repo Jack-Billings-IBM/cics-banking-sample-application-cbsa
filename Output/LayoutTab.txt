@@ -1,0 +1,241 @@
+Map	Layout
+BNK1DCM.BNK1DC	:01: BNK1DC         CICS Banking Sample Application - Display Customer.             
+BNK1DCM.BNK1DC	:02:                                                                                
+BNK1DCM.BNK1DC	:03: Provide a CUSTOMER number. Then press Enter.                                   
+BNK1DCM.BNK1DC	:04:                                                                                
+BNK1DCM.BNK1DC	:05: CUSTOMER NUMBER .......... .                                                   
+BNK1DCM.BNK1DC	:06:                                                                                
+BNK1DCM.BNK1DC	:07: Sort Code        ......                                                        
+BNK1DCM.BNK1DC	:08: Customer Number  ..........                                                    
+BNK1DCM.BNK1DC	:09: Customer Name    ............................................................  
+BNK1DCM.BNK1DC	:10: Customer Address ............................................................  
+BNK1DCM.BNK1DC	:11:                  ............................................................  
+BNK1DCM.BNK1DC	:12:                  ........................................                      
+BNK1DCM.BNK1DC	:13: Customer D.O.B.  .. / .. / ....                                                
+BNK1DCM.BNK1DC	:14: Credit Score     ...                                                           
+BNK1DCM.BNK1DC	:15: CS Review Date   .. / .. / ....                                                
+BNK1DCM.BNK1DC	:16:                                                                                
+BNK1DCM.BNK1DC	:17:                                                                                
+BNK1DCM.BNK1DC	:18:                                                                                
+BNK1DCM.BNK1DC	:19:                                                                                
+BNK1DCM.BNK1DC	:20:                                                                                
+BNK1DCM.BNK1DC	:21:                                                                                
+BNK1DCM.BNK1DC	:22:                                                                                
+BNK1DCM.BNK1DC	:23: ...............................................................................
+BNK1DCM.BNK1DC	:24: F3=Exit   F12=Cancel                                                           
+BNK1CDM.BNK1CD	:01: BNK1CD        CICS Banking Sample Application - Credit/Debit Funds.            
+BNK1CDM.BNK1CD	:02:                                                                                
+BNK1CDM.BNK1CD	:03: Provide an ACCOUNT number and an AMOUNT and then press Enter.                  
+BNK1CDM.BNK1CD	:04:                                                                                
+BNK1CDM.BNK1CD	:05:                                                                                
+BNK1CDM.BNK1CD	:06:                                                                                
+BNK1CDM.BNK1CD	:07:                                                                                
+BNK1CDM.BNK1CD	:08: ACCOUNT NUMBER: ........ AMOUNT:  + 0000000000.00                              
+BNK1CDM.BNK1CD	:09:                                                                                
+BNK1CDM.BNK1CD	:10: Sort Code:                                                                     
+BNK1CDM.BNK1CD	:11: Available Balance: ..............                                              
+BNK1CDM.BNK1CD	:12: Actual Balance:    ..............                                              
+BNK1CDM.BNK1CD	:13:                                                                                
+BNK1CDM.BNK1CD	:14:                                                                                
+BNK1CDM.BNK1CD	:15:                                                                                
+BNK1CDM.BNK1CD	:16:                                                                                
+BNK1CDM.BNK1CD	:17:                                                                                
+BNK1CDM.BNK1CD	:18:                                                                                
+BNK1CDM.BNK1CD	:19:                                                                                
+BNK1CDM.BNK1CD	:20:                                                                                
+BNK1CDM.BNK1CD	:21:                                                                                
+BNK1CDM.BNK1CD	:22:                                                                                
+BNK1CDM.BNK1CD	:23: ...............................................................................
+BNK1CDM.BNK1CD	:24: F3=Exit   F12=Cancel                                                           
+BNK1TFM.BNK1B2	:01: BNK1B2        CICS Banking Sample Application - Transfer Funds                 
+BNK1TFM.BNK1B2	:02: ...............................................................................
+BNK1TFM.BNK1B2	:03: Transfer funds                                                                 
+BNK1TFM.BNK1B2	:04:                                                                                
+BNK1TFM.BNK1B2	:05:     Provide the Sort Code and Account Number of the Accounts you want          
+BNK1TFM.BNK1B2	:06:     to transfer money FROM and TO and the AMOUNT you want to transfer.         
+BNK1TFM.BNK1B2	:07:     Then press ENTER.                                                          
+BNK1TFM.BNK1B2	:08: ...............................................................................
+BNK1TFM.BNK1B2	:09:     From Account                                                               
+BNK1TFM.BNK1B2	:10:          Sort Code      : 00 - 00 - 00 ....................................... 
+BNK1TFM.BNK1B2	:11:          Account Number : ........ ........................................... 
+BNK1TFM.BNK1B2	:12: ...............................................................................
+BNK1TFM.BNK1B2	:13:          Amount to be Transferred :   0000000000.00 ........................   
+BNK1TFM.BNK1B2	:14: ...............................................................................
+BNK1TFM.BNK1B2	:15:          Actual Balance ......... :   0000000000 . 00 ........................ 
+BNK1TFM.BNK1B2	:16:          Available Balance ...... :   0000000000 . 00 ........................ 
+BNK1TFM.BNK1B2	:17: ...............................................................................
+BNK1TFM.BNK1B2	:18:     To Account                                                                 
+BNK1TFM.BNK1B2	:19:          Sort Code      : 00 - 00 - 00 ....................................... 
+BNK1TFM.BNK1B2	:20:          Account Number : ........ ........................................... 
+BNK1TFM.BNK1B2	:21: ...............................................................................
+BNK1TFM.BNK1B2	:22: ...............................................................................
+BNK1TFM.BNK1B2	:23: ...............................................................................
+BNK1TFM.BNK1B2	:24: F3=Exit   F12=Cancel                                                           
+BNK1DAM.BNK1DA	:01: BNK1DA         CICS Banking Sample Application - Display Account.              
+BNK1DAM.BNK1DA	:02:                                                                                
+BNK1DAM.BNK1DA	:03: Provide an ACCOUNT number. Then press Enter.                                   
+BNK1DAM.BNK1DA	:04:                                                                                
+BNK1DAM.BNK1DA	:05: ACCOUNT NUMBER  ........ .                                                     
+BNK1DAM.BNK1DA	:06:                                                                                
+BNK1DAM.BNK1DA	:07:  Customer Number:  ..........                                                  
+BNK1DAM.BNK1DA	:08:  Sort Code      :  ......                                                      
+BNK1DAM.BNK1DA	:09:  Account Number :  ..........                                                  
+BNK1DAM.BNK1DA	:10:  Account Type   :  ........                                                    
+BNK1DAM.BNK1DA	:11:  Interest Rate  :  .......                                                     
+BNK1DAM.BNK1DA	:12:  Account Opened :  .. / .. / ....                                              
+BNK1DAM.BNK1DA	:13:  Overdraft limit:  ........                                                    
+BNK1DAM.BNK1DA	:14:  Last statement :  .. / .. / ....                                              
+BNK1DAM.BNK1DA	:15:  Next statement :  .. / .. / ....                                              
+BNK1DAM.BNK1DA	:16:  Available Bal  : ..............                                               
+BNK1DAM.BNK1DA	:17:  Actual Balance : ..............                                               
+BNK1DAM.BNK1DA	:18:                                                                                
+BNK1DAM.BNK1DA	:19:                                                                                
+BNK1DAM.BNK1DA	:20:                                                                                
+BNK1DAM.BNK1DA	:21:                                                                                
+BNK1DAM.BNK1DA	:22:                                                                                
+BNK1DAM.BNK1DA	:23: ...............................................................................
+BNK1DAM.BNK1DA	:24: F3=Exit   F12=Cancel                                                           
+BNK1ACC.BNK1ACC	:01: BNK1ACC      CICS Banking Sample Application - Accounts for Customers.         
+BNK1ACC.BNK1ACC	:02:                                                                                
+BNK1ACC.BNK1ACC	:03: Provide a Customer number. Then press Enter.                                   
+BNK1ACC.BNK1ACC	:04:                                                                                
+BNK1ACC.BNK1ACC	:05: CUSTOMER NUMBER .......... .                                                   
+BNK1ACC.BNK1ACC	:06:                                                                                
+BNK1ACC.BNK1ACC	:07:                                                                                
+BNK1ACC.BNK1ACC	:08: SORT CODE   ACCOUNT NUMBER   ACCOUNT TYPE    AVAIL BALANCE   ACTUAL BALANCE    
+BNK1ACC.BNK1ACC	:09: ...............................................................................
+BNK1ACC.BNK1ACC	:10:                                                                                
+BNK1ACC.BNK1ACC	:11:                                                                                
+BNK1ACC.BNK1ACC	:12:                                                                                
+BNK1ACC.BNK1ACC	:13:                                                                                
+BNK1ACC.BNK1ACC	:14:                                                                                
+BNK1ACC.BNK1ACC	:15:                                                                                
+BNK1ACC.BNK1ACC	:16:                                                                                
+BNK1ACC.BNK1ACC	:17:                                                                                
+BNK1ACC.BNK1ACC	:18:                                                                                
+BNK1ACC.BNK1ACC	:19:                                                                                
+BNK1ACC.BNK1ACC	:20:                                                                                
+BNK1ACC.BNK1ACC	:21:                                                                                
+BNK1ACC.BNK1ACC	:22:                                                                                
+BNK1ACC.BNK1ACC	:23: ...............................................................................
+BNK1ACC.BNK1ACC	:24: F3=Exit   F12=Cancel                                                           
+BNK1TFM.BNK1TF	:01: BNK1TF          CICS Banking Sample Application - Transfer funds.              
+BNK1TFM.BNK1TF	:02:                                                                                
+BNK1TFM.BNK1TF	:03: Provide a FROM account, a TO account and an Amount and press Enter.            
+BNK1TFM.BNK1TF	:04:                                                                                
+BNK1TFM.BNK1TF	:05:                                                                                
+BNK1TFM.BNK1TF	:06:                                                                                
+BNK1TFM.BNK1TF	:07:                                                                                
+BNK1TFM.BNK1TF	:08: FROM Account Number:  ........ TO Account Number:  ........ .                  
+BNK1TFM.BNK1TF	:09: AMOUNT:               0000000000.00 .                                          
+BNK1TFM.BNK1TF	:10:                                                                                
+BNK1TFM.BNK1TF	:11: FROM Account   :   ........       TO Account     :    ........                 
+BNK1TFM.BNK1TF	:12: Sort Code      :                  Sort Code      :                             
+BNK1TFM.BNK1TF	:13: Actual Balance :  ..............  Actual Balance :   ..............            
+BNK1TFM.BNK1TF	:14: Avail Balance  :  ..............  Avail Balance  :   ..............            
+BNK1TFM.BNK1TF	:15:                                                                                
+BNK1TFM.BNK1TF	:16:                                                                                
+BNK1TFM.BNK1TF	:17:                                                                                
+BNK1TFM.BNK1TF	:18:                                                                                
+BNK1TFM.BNK1TF	:19:                                                                                
+BNK1TFM.BNK1TF	:20:                                                                                
+BNK1TFM.BNK1TF	:21:                                                                                
+BNK1TFM.BNK1TF	:22:                                                                                
+BNK1TFM.BNK1TF	:23: ...............................................................................
+BNK1TFM.BNK1TF	:24: F3=Exit   F12=Cancel                                                           
+BNK1MAI.BNK1ME	:01: BNK1MA             CICS Banking Sample Application - Main Menu.                
+BNK1MAI.BNK1ME	:02:                                                                                
+BNK1MAI.BNK1ME	:03: Select an option. Then press Enter.                                            
+BNK1MAI.BNK1ME	:04:                                                                                
+BNK1MAI.BNK1ME	:05: Action . . . .   1.  Display/Delete/Update CUSTOMER information                
+BNK1MAI.BNK1ME	:06:                  2.  Display/Delete ACCOUNT information                        
+BNK1MAI.BNK1ME	:07:                  3.  Create CUSTOMER                                           
+BNK1MAI.BNK1ME	:08:                  4.  Create ACCOUNT                                            
+BNK1MAI.BNK1ME	:09:                  5.  Update ACCOUNT                                            
+BNK1MAI.BNK1ME	:10:                  6.  Credit/Debit funds to an ACCOUNT                          
+BNK1MAI.BNK1ME	:11:                  7.  Transfer funds                                            
+BNK1MAI.BNK1ME	:12:                                                                                
+BNK1MAI.BNK1ME	:13:                  A.  Look up Accounts with Customer Number                     
+BNK1MAI.BNK1ME	:14:                                                                                
+BNK1MAI.BNK1ME	:15:                                                                                
+BNK1MAI.BNK1ME	:16:                                                                                
+BNK1MAI.BNK1ME	:17:                                                                                
+BNK1MAI.BNK1ME	:18:                                                                                
+BNK1MAI.BNK1ME	:19:                                                                                
+BNK1MAI.BNK1ME	:20:                                                                                
+BNK1MAI.BNK1ME	:21:                                                                                
+BNK1MAI.BNK1ME	:22:                                                                                
+BNK1MAI.BNK1ME	:23: ...............................................................................
+BNK1MAI.BNK1ME	:24: F3=Exit   F12=Cancel                                                           
+BNK1UAM.BNK1UA	:01: BNK1UA          CICS Banking Sample Application - Update Account.              
+BNK1UAM.BNK1UA	:02:                                                                                
+BNK1UAM.BNK1UA	:03: Please provide an ACCOUNT number.                                              
+BNK1UAM.BNK1UA	:04:                                                                                
+BNK1UAM.BNK1UA	:05: ACCOUNT NUMBER  ........ .                                                     
+BNK1UAM.BNK1UA	:06:                                                                                
+BNK1UAM.BNK1UA	:07:  Customer Number:  ..........  .                                               
+BNK1UAM.BNK1UA	:08:  Sort Code      :  ...... .                                                    
+BNK1UAM.BNK1UA	:09:  Account Number :  ........    .                                               
+BNK1UAM.BNK1UA	:10:  Account Type   :  ........ .                                                  
+BNK1UAM.BNK1UA	:11:  Interest Rate  :  ....... .                                                   
+BNK1UAM.BNK1UA	:12:  Account Opened :  .. / .. / ....                                              
+BNK1UAM.BNK1UA	:13:  Overdraft limit:  ........ .                                                  
+BNK1UAM.BNK1UA	:14:  Last statement :  .. / .. / .... .                                            
+BNK1UAM.BNK1UA	:15:  Next statement :  .. / .. / ....                                              
+BNK1UAM.BNK1UA	:16:  Available Bal  : ..............                                               
+BNK1UAM.BNK1UA	:17:  Actual Balance : ..............                                               
+BNK1UAM.BNK1UA	:18:                                                                                
+BNK1UAM.BNK1UA	:19:                                                                                
+BNK1UAM.BNK1UA	:20:                                                                                
+BNK1UAM.BNK1UA	:21:                                                                                
+BNK1UAM.BNK1UA	:22:                                                                                
+BNK1UAM.BNK1UA	:23: ...............................................................................
+BNK1UAM.BNK1UA	:24: F3=Exit   F12=Cancel                                                           
+BNK1CAM.BNK1CA	:01: BNK1CA           CICS Banking Sample Application- Create Account.              
+BNK1CAM.BNK1CA	:02:                                                                                
+BNK1CAM.BNK1CA	:03: Please provide the requested information and press Enter.                      
+BNK1CAM.BNK1CA	:04:                                                                                
+BNK1CAM.BNK1CA	:05:                                                                                
+BNK1CAM.BNK1CA	:06: Customer number  :    .......... .                                             
+BNK1CAM.BNK1CA	:07: Account Type     :    ........ .                                               
+BNK1CAM.BNK1CA	:08: Interest Rate    :    0000.00 .                                                
+BNK1CAM.BNK1CA	:09: Overdraft Limit  :    0        .                                               
+BNK1CAM.BNK1CA	:10:                                                                                
+BNK1CAM.BNK1CA	:11:                                                                                
+BNK1CAM.BNK1CA	:12:                                                                                
+BNK1CAM.BNK1CA	:13: Account number   :                                                             
+BNK1CAM.BNK1CA	:14: Sort code        :    ......                                                   
+BNK1CAM.BNK1CA	:15: Account Opened   :    .. / .. / ....                                           
+BNK1CAM.BNK1CA	:16: Last Stmt Date   :    .. / .. / ....                                           
+BNK1CAM.BNK1CA	:17: Next Stmt Date   :    .. / .. / ....                                           
+BNK1CAM.BNK1CA	:18: Available Balance:   ..............                                            
+BNK1CAM.BNK1CA	:19: Actual Balance   :   ..............                                            
+BNK1CAM.BNK1CA	:20:                                                                                
+BNK1CAM.BNK1CA	:21:                                                                                
+BNK1CAM.BNK1CA	:22:                                                                                
+BNK1CAM.BNK1CA	:23: ...............................................................................
+BNK1CAM.BNK1CA	:24: F3=Exit   F12=Cancel                                                           
+BNK1CCM.BNK1CC	:01: BNK1CC         CICS Banking Sample Application - Create Customer.              
+BNK1CCM.BNK1CC	:02:                                                                                
+BNK1CCM.BNK1CC	:03: Provide a Name, Address and D.O.B. then Enter                                  
+BNK1CCM.BNK1CC	:04:                                                                                
+BNK1CCM.BNK1CC	:05:                                                                                
+BNK1CCM.BNK1CC	:06:                                                                                
+BNK1CCM.BNK1CC	:07:  Customer Title  ..........   First Name     ....................              
+BNK1CCM.BNK1CC	:08:  Middle Initials ..  Family name  .................... .                       
+BNK1CCM.BNK1CC	:09:                                                                                
+BNK1CCM.BNK1CC	:10:  Customer Addr1  ............................................................  
+BNK1CCM.BNK1CC	:11:  Customer Addr2  ............................................................  
+BNK1CCM.BNK1CC	:12:  Customer Addr3  ........................................ .                    
+BNK1CCM.BNK1CC	:13:  Customer D.O.B. .. / .. / .... .                                              
+BNK1CCM.BNK1CC	:14:                                                                                
+BNK1CCM.BNK1CC	:15:  Sort Code       ......                                                        
+BNK1CCM.BNK1CC	:16:  Customer Number ..........                                                    
+BNK1CCM.BNK1CC	:17:  Credit Score    ...                                                           
+BNK1CCM.BNK1CC	:18:  CS Review Date  .. / .. / ....                                                
+BNK1CCM.BNK1CC	:19:                                                                                
+BNK1CCM.BNK1CC	:20:                                                                                
+BNK1CCM.BNK1CC	:21:                                                                                
+BNK1CCM.BNK1CC	:22:                                                                                
+BNK1CCM.BNK1CC	:23: ...............................................................................
+BNK1CCM.BNK1CC	:24: F3=Exit   F12=Cancel                                                           

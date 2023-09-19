@@ -1,0 +1,4 @@
+Table	Tablespace	PrimaryKey	Index
+ACCOUNT			
+PROCTRAN			
+CONTROL			
